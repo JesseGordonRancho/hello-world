@@ -1,5 +1,7 @@
 # hello-world    
 Copied from https://guides.github.com/activities/hello-world/
+(Jesse has Word doc version at Documents > R > Coursera_Git_Notes.docx)
+
 Set up GitHub Repo
 Step 1. Create a Repository
 A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. It also offers other common options such as a license file.
